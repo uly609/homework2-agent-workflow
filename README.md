@@ -38,3 +38,4 @@ The included review Agent supports the same optional OpenAI-compatible provider 
 
 - [`docs/design.md`](docs/design.md): architecture, workflow, state, safety, and limitations.
 - [`examples/unsafe_example.py`](examples/unsafe_example.py): input for a complete demo run.
+- [`demo-video.mp4`](demo-video.mp4): 48-second workflow demonstration.
